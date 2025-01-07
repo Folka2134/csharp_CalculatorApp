@@ -1,0 +1,8 @@
+# vscode
+.vscode/
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# build files
+bin/
+obj/
